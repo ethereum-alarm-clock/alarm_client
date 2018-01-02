@@ -1,4 +1,4 @@
-_Warning: This repository reflects the python client as of 0.8.0-beta release. The current release is 0.9.0-beta. There are **breaking changes** between these two releases and this client needs to be updated before it will work. If you are looking for a working client please see the Javascript client repository._
+_Warning: This repository reflects the python client as of 0.8.0-beta release. The current release is 0.9.0-beta. There are **breaking changes** between these two releases and this client needs to be updated before it will work. If you are looking for a working client please see the [Javascript client repository](https://github.com/ethereum-alarm-clock/eac.js)._
 
 # Alarm Client
 
